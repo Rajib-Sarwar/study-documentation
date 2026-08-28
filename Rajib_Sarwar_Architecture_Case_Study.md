@@ -1,7 +1,9 @@
 # Technical Architecture Document: SDUI & Dynamic White-Label Ecosystem
 
 **Author:** Chowdhury Md Rajib Sarwar
+
 **Role Focus:** Senior Software Engineer (SE5) – Client Foundations
+
 **Architecture Focus:** SDUI • Centralized Configuration • Dynamic Assets • Native Component Registry
 
 ## 1. Executive Summary
